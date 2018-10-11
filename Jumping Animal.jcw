@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Jumping Animal</label>
+	</settings>
+	<users>
+		<user>
+			<path>Jumping Animal.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Jumping Animal.jcp</path>
+		</project>
+	</projects>
+</workspace>
